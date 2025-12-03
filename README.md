@@ -63,7 +63,7 @@ Ve a [INSTRUCCIONES.md](./INSTRUCCIONES.md) para seguir los ejercicios paso a pa
 
 Agrega tu nombre aquí cuando completes el Ejercicio 1:
 
-- [ ] Patricio Balboa
+- [ ] Patricio Balboa P.
 
 ## 🧪 Tests Automáticos
 
