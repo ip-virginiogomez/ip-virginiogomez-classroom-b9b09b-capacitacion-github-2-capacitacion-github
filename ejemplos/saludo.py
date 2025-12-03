@@ -2,7 +2,7 @@
 
 def saludar(nombre):
     """Saluda a una persona."""
-    return f"¡Hola, {nombre}!"
+    return f"¡Hola, estimado {nombre}!"
 
 # Ejemplo de uso
 if __name__ == "__main__":

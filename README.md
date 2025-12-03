@@ -1,18 +1,11 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=21936963)
 # 🎓 Repositorio de Práctica - Capacitación GitHub & GitHub Classroom
 
 Bienvenido a tu repositorio de práctica. Aquí aprenderás a usar Git, GitHub y GitHub Classroom.
 
 ## 🎯 Objetivos
 
-Este repositorio te permite practicar:
-- ✅ Clonar repositorios
-- ✅ Hacer commits y push
-- ✅ Crear y gestionar branches
-- ✅ Trabajar con Issues
-- ✅ Crear Pull Requests
-- ✅ Revisar código
-- ✅ Usar GitHub Codespaces
-- ✅ Probar autograding
+Se me escapó el suprimir
 
 ## 📁 Estructura del Repositorio
 
@@ -62,7 +55,7 @@ Ve a [INSTRUCCIONES.md](./INSTRUCCIONES.md) para seguir los ejercicios paso a pa
 
 Agrega tu nombre aquí cuando completes el Ejercicio 1:
 
-- [ ] Tu nombre aquí
+- [ ] Patricio Balboa P.
 
 ## 🧪 Tests Automáticos
 
